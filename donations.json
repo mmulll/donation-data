@@ -3,23 +3,12 @@
         "active": "true",
         "name": "John D.",
         "item": "cat food",
-        "age": "24",
+        "age": "",
         "city": "Pasadena",
         "asin": "B01IRB054O",
         "link": "https://www.amazon.com/Science-Diet-Urinary-Hairball-Control/dp/B01IRB054O/ref=sr_1_7?dib=eyJ2IjoiMSJ9.pQEmBlx4wAPwjn8t4CW1cBXYyoOsqY_ycaEB2-Vh4P0DrS5mvJR8yVvMJEBep1tONvg42QQXjt5wMhT02nvxPAm1Bvi088Tz4ASmYH4CEJndbQclz2yQ1znvWNdZM7IoG46QAvvZLvCFwCNtG_u9nvf3zC_mnAr3-tgrFEDFFVWRBzxBT_ZBPh65NS2lTJuKq7Rz4tVd3tHXY2D3JGZsoiTpBNQk6_8KEdSiWRQe6_6CE8-ujRZbFN_1e2qSNkdyb-EAABIhyC4zkvV55Y-R7Z-A1ghaw8hfvGXY14DeCxLDE9VnRUPdAyRXQ2p21Bn-3TrM_7-7mpW6XXxrQQVW9s-GkzHyGo-h5iVV610FNhPM030LeJVT3q_sX_UVMszgNOzLAwVRfz_T2CzLgwEVZ8wLzgVhap6Zo85859aQbQ8wPZV1BD9ndPJRL0_qfm8m.sOcGbVVWGzZLka0JOXpHif1B1X5QeRZtK2yz4cQcf-c&dib_tag=se&keywords=cat+food&qid=1740460785&sr=8-7",
         "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/2LNTV6UJKG2CG?ref_=wl_share",
         "image": "https://m.media-amazon.com/images/I/81bYGLrXDmL._AC_SX679_.jpg"
-    },
-    {
-        "active": "false",
-        "name": "John D.",
-        "item": "kibble for his husky",
-        "age": " ",
-        "city": "Altadena",
-        "asin": " ",
-        "link": "https://www.amazon.com/dp/B09K8YYVWV/?coliid=I1V5LO4KGTUWE&colid=1P5RI7O4001YC&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
-        "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/1P5RI7O4001YC?ref_=wl_share",
-        "image": "https://m.media-amazon.com/images/I/719y8e3lvHL._AC_SX679_.jpg"
     },
     {
         "active": "false",
@@ -36,7 +25,7 @@
         "active": "false",
         "name": "Danilo Guerrero",
         "item": "Kibbles for Terrier Mix",
-        "age": "33",
+        "age": " ",
         "city": "Burbank",
         "asin": " ",
         "link": "https://www.amazon.com/Hills-Science-Diet-Chicken-Recipe/dp/B0BS6VSSSQ/ref=sr_1_3_sspa?crid=54JM29TNL00H&dib=eyJ2IjoiMSJ9.SVeg1z90QUL67NdV-Foj1hInFnlb0FF7QFH-bmlZkFYhAozoWWzXcxVKICgEONXQcgctheGZKgOCmW862MlBSTOzyAVPoCCSg4YuKPOLEpTb3JPf_Li_J4GGEQtt92i9kWOIEFFKyq-TGqmON5n-ILS5_PEiRZIRAhn-20IMLcQi_MtN8srBiS4eL84L0VcGjsfeY8FX-tdxmrWOk7frYfT0daUA4tlYQZHlbnScc9XKrNFZBuSfuMa7eTn2119_SNdJYaJC-VNdD5B2fINEkUKlgULeo21y2nGI0yGzq7A.59RAzjJt3K56JTlLnWSPWOyjLFUj8fcvUVW4fF5HpK0&dib_tag=se&keywords=Kibble%2Bfor%2BTerrier%2BMix&qid=1742858627&sprefix=kibble%2Bfor%2Bterrier%2Bmix%2Caps%2C242&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
@@ -47,23 +36,23 @@
         "active": "false",
         "name": "Angela Guzman",
         "item": "Dog pads for siberian husky",
-        "age": "33",
+        "age": "",
         "city": "Burbank",
         "asin": " ",
-        "link": "https://www.amazon.com/Kaytee-Fiesta-Guinea-Pig-Food/dp/B000FXVV4Q/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GDRYAuv47Xa45BnoizVWw-WiQNglsEXGnuSYNC2MuA5it7qzvUAKXwc2kLsDzahC1rmnCTNtXwquGugKxvwrsYfNhjtRdG5vvNHXtfu7lKL-whlPzBMVrJDNspfNG_tJNzkr0HBfs523f4YACRwiaTXLsxDDhxSMSFTkbehLizoxbt2pf81dmUTSkb6HHO2sOiyMvJp3niSFGWM9as8xPpHCbWZMnwvHd7WVSxv6EXJ9ptmUeKFDGeiFUgBnRyjI3Ddl0cGKIWD-l1cOvYhDSWmzhXacyJx8-YJMK8nMwn4.HzeaSWea6ff8W4fD7w_ow42fPm1oDT_G2ZWVylwsUKg&dib_tag=se&keywords=kibble%2Bfor%2BGuinea%2BPig&qid=1742857417&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "link": " ",
         "wishlist_link": " ",
-        "image": "https://m.media-amazon.com/images/I/81DMRjgGikL._AC_SL1500_.jpg"
+        "image": " "
     },
     {
         "active": "false",
         "name": "Angela Guzman",
         "item": "Dog Harness Leash",
-        "age": "33",
+        "age": "",
         "city": "Downtown",
         "asin": " ",
-        "link": "https://www.amazon.com/Kaytee-Fiesta-Guinea-Pig-Food/dp/B000FXVV4Q/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GDRYAuv47Xa45BnoizVWw-WiQNglsEXGnuSYNC2MuA5it7qzvUAKXwc2kLsDzahC1rmnCTNtXwquGugKxvwrsYfNhjtRdG5vvNHXtfu7lKL-whlPzBMVrJDNspfNG_tJNzkr0HBfs523f4YACRwiaTXLsxDDhxSMSFTkbehLizoxbt2pf81dmUTSkb6HHO2sOiyMvJp3niSFGWM9as8xPpHCbWZMnwvHd7WVSxv6EXJ9ptmUeKFDGeiFUgBnRyjI3Ddl0cGKIWD-l1cOvYhDSWmzhXacyJx8-YJMK8nMwn4.HzeaSWea6ff8W4fD7w_ow42fPm1oDT_G2ZWVylwsUKg&dib_tag=se&keywords=kibble%2Bfor%2BGuinea%2BPig&qid=1742857417&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "link": " ",
         "wishlist_link": " ",
-        "image": "https://m.media-amazon.com/images/I/81DMRjgGikL._AC_SL1500_.jpg"
+        "image": " "
     },
     {
         "active": "false",
@@ -72,9 +61,9 @@
         "age": "33",
         "city": "Downtown",
         "asin": " ",
-        "link": "https://www.amazon.com/Kaytee-Fiesta-Guinea-Pig-Food/dp/B000FXVV4Q/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GDRYAuv47Xa45BnoizVWw-WiQNglsEXGnuSYNC2MuA5it7qzvUAKXwc2kLsDzahC1rmnCTNtXwquGugKxvwrsYfNhjtRdG5vvNHXtfu7lKL-whlPzBMVrJDNspfNG_tJNzkr0HBfs523f4YACRwiaTXLsxDDhxSMSFTkbehLizoxbt2pf81dmUTSkb6HHO2sOiyMvJp3niSFGWM9as8xPpHCbWZMnwvHd7WVSxv6EXJ9ptmUeKFDGeiFUgBnRyjI3Ddl0cGKIWD-l1cOvYhDSWmzhXacyJx8-YJMK8nMwn4.HzeaSWea6ff8W4fD7w_ow42fPm1oDT_G2ZWVylwsUKg&dib_tag=se&keywords=kibble%2Bfor%2BGuinea%2BPig&qid=1742857417&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "link": " ",
         "wishlist_link": " ",
-        "image": "https://m.media-amazon.com/images/I/81DMRjgGikL._AC_SL1500_.jpg"
+        "image": " "
     }
  ]
   

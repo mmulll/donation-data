@@ -1,6 +1,6 @@
 [
     {
-        "active": "false",
+        "active": "true",
         "name": "John Wallace",
         "item": "cat food",
         "age": "51",
@@ -11,7 +11,7 @@
         "image": "https://m.media-amazon.com/images/I/81bYGLrXDmL._AC_SX679_.jpg"
     },
     {
-        "active": true,
+        "active": false,
         "name": "Danilo G.",
         "item": "kibble for siberian husky",
         "age": " ",

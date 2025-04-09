@@ -44,7 +44,7 @@
         "image": " "
     },
     {
-        "active": "false",
+        "active": true,
         "name": "Angela Guzman",
         "item": "Dog Harness Leash",
         "age": "",
@@ -55,7 +55,7 @@
         "image": " "
     },
     {
-        "active": "false",
+        "active": true,
         "name": "Jermaine Lawler",
         "item": "Comforter",
         "age": "33",

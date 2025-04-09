@@ -1,6 +1,6 @@
 [
     {
-        "active": "true",
+        "active": true,
         "name": "John D.",
         "item": "cat food",
         "age": "",
@@ -11,7 +11,7 @@
         "image": "https://m.media-amazon.com/images/I/81bYGLrXDmL._AC_SX679_.jpg"
     },
     {
-        "active": "false",
+        "active": true,
         "name": "Danilo G",
         "item": "Kibbles for Guinea Pig",
         "age": " ",
@@ -22,7 +22,7 @@
         "image": "https://m.media-amazon.com/images/I/81DMRjgGikL._AC_SL1500_.jpg"
     },
     {
-        "active": "false",
+        "active": true,
         "name": "Danilo Guerrero",
         "item": "Kibbles for Terrier Mix",
         "age": " ",
@@ -33,7 +33,7 @@
         "image": "https://m.media-amazon.com/images/I/71kAu49pB7L._AC_SL1500_.jpg"
     },
     {
-        "active": "false",
+        "active": false,
         "name": "Angela Guzman",
         "item": "Dog pads for siberian husky",
         "age": "",
@@ -44,7 +44,7 @@
         "image": " "
     },
     {
-        "active": true,
+        "active": false,
         "name": "Angela Guzman",
         "item": "Dog Harness Leash",
         "age": "",
@@ -55,7 +55,7 @@
         "image": " "
     },
     {
-        "active": true,
+        "active": false,
         "name": "Jermaine Lawler",
         "item": "Comforter",
         "age": "33",

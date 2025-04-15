@@ -99,7 +99,7 @@
         "image": "https://m.media-amazon.com/images/I/719ck49Oh5L._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Collapsible Cooling Rack",
         "age": "",
@@ -110,7 +110,7 @@
         "image": "https://m.media-amazon.com/images/I/71y+lHWTr3L._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Storage Rack",
         "age": "",
@@ -121,7 +121,7 @@
         "image": "https://m.media-amazon.com/images/I/71zBjHlUsVL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Food Coloring Assortment",
         "age": "",
@@ -132,8 +132,8 @@
         "image": "https://m.media-amazon.com/images/I/71NU-9Yw7nL._SX679_PIbundle-6,TopRight,0,0_SX679SY667SH20_.jpg"
     },
     {
-        "active": "true",
-        "name": "Luciana T.",
+        "active": true,
+        "name": "Luciana T.,
         "item": "Decorating Tools Supplies Kit",
         "age": "",
         "city": "Pacific Palisades",
@@ -143,7 +143,7 @@
         "image": "https://m.media-amazon.com/images/I/81nnCw0v9DL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Aluminum Cake Turntable Set",
         "age": "",
@@ -154,7 +154,7 @@
         "image": "https://m.media-amazon.com/images/I/71vBlSkTNAL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Marshmallow Fondant Cake Decorating Hand Tool Kit",
         "age": "",
@@ -165,7 +165,7 @@
         "image": "https://m.media-amazon.com/images/I/51AcQ6HaLfL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Acrylic Cake Scraper Set",
         "age": "",
@@ -176,7 +176,7 @@
         "image": "https://m.media-amazon.com/images/I/5140LPwcf+L._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Fondant Icing Smoother Set",
         "age": "",
@@ -187,7 +187,7 @@
         "image": "https://m.media-amazon.com/images/I/51eEUlikC+L._AC_SY450_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Stainless Steel Cake Scraper Set",
         "age": "",
@@ -198,7 +198,7 @@
         "image": "https://m.media-amazon.com/images/I/71W52lrzCbL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana Toriello",
         "item": "12 inch Clear Acrylic Cake Scraper",
         "age": "",
@@ -209,7 +209,7 @@
         "image": "https://m.media-amazon.com/images/I/61LntKUYyOL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Cake Painting Brush Set",
         "age": "",
@@ -220,7 +220,7 @@
         "image": "https://m.media-amazon.com/images/I/51Zwg54GaDL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Cake Dowel Rods",
         "age": "",
@@ -231,7 +231,7 @@
         "image": "https://m.media-amazon.com/images/I/61BI9klBXeL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Plastic Cake Scraper",
         "age": "",
@@ -242,7 +242,7 @@
         "image": "https://m.media-amazon.com/images/I/51VxlsGyZuL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Cake Dowel Guide",
         "age": "",
@@ -253,7 +253,7 @@
         "image": "https://m.media-amazon.com/images/I/71ZxnD9g4AL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Piping Nozzle Tips",
         "age": "",
@@ -264,7 +264,7 @@
         "image": "https://m.media-amazon.com/images/I/41iGbMgZAqL._AC_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "12 inch Parchpment Paper Rounds",
         "age": "",
@@ -275,7 +275,7 @@
         "image": "https://m.media-amazon.com/images/I/61UQ2ZFg1pL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "10 inch Parchment Paper Rounds",
         "age": "",
@@ -286,7 +286,7 @@
         "image": "https://m.media-amazon.com/images/I/61iGA0PFR3L._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "9 inch Parchment Paper Rounds",
         "age": "",
@@ -297,7 +297,7 @@
         "image": "https://m.media-amazon.com/images/I/61NIsSxa17L._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "8 inch Parchment Paper Rounds",
         "age": "",
@@ -308,7 +308,7 @@
         "image": "https://m.media-amazon.com/images/I/61uH8SGxt1L._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "7 inch Parchment Paper Rounds",
         "age": "",
@@ -319,7 +319,7 @@
         "image": "https://m.media-amazon.com/images/I/61a7FFPA0YL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "6 inch Parchment Paper Rounds",
         "age": "",
@@ -330,7 +330,7 @@
         "image": "https://www.amazon.com/hz/wishlist/ls/3EDSFIP4L23HS?ref_=wl_share"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "5 inch Parchment Paper Rounds",
         "age": "",
@@ -341,7 +341,7 @@
         "image": "https://m.media-amazon.com/images/I/61smP8eYWYL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "4 inch Parchment Paper Rounds",
         "age": "",
@@ -352,7 +352,7 @@
         "image": "https://m.media-amazon.com/images/I/61IBFcas00L._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Stainless Steel Measuring Cup Set",
         "age": "",
@@ -363,7 +363,7 @@
         "image": "https://m.media-amazon.com/images/I/61EkLC0ENjL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Pyrex Glass Measuring Cup Set",
         "age": "",
@@ -374,7 +374,7 @@
         "image": "https://m.media-amazon.com/images/I/71ygLu2o0OL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "2 pc Pyrex Glass Measuring Cup Set",
         "age": "",
@@ -385,7 +385,7 @@
         "image": "https://m.media-amazon.com/images/I/61NIzri6niL._AC_SX569_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Stainless Steel Measuring Cup and Spoons Set",
         "age": "",
@@ -396,7 +396,7 @@
         "image": "https://m.media-amazon.com/images/I/51icHFzZnnL._AC_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "8 inch Detail Craft Knife",
         "age": "",
@@ -407,7 +407,7 @@
         "image": "https://m.media-amazon.com/images/I/41jn4bakM9L._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "31 pc Fondant Cake Sculpting Tools Kit",
         "age": "",
@@ -418,7 +418,7 @@
         "image": "https://m.media-amazon.com/images/I/61aaqFxR9WS._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "10 inch Heart Shaped Cake Pans",
         "age": "",
@@ -429,7 +429,7 @@
         "image": "https://m.media-amazon.com/images/I/51vsaZWSlOL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "6 inch Heart Shaped Cake Pans",
         "age": "",
@@ -440,7 +440,7 @@
         "image": "https://m.media-amazon.com/images/I/51aDt70lzDL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "8 inch Heart Shaped Cake Pans",
         "age": "",
@@ -451,7 +451,7 @@
         "image": "https://m.media-amazon.com/images/I/51vEvxOSuML._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Baking Sheets and Cooling Rack Set",
         "age": "",
@@ -462,7 +462,7 @@
         "image": "https://m.media-amazon.com/images/I/716jLednL+L._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "24 Cup Mini-Muffin Pan",
         "age": "",
@@ -473,7 +473,7 @@
         "image": "https://m.media-amazon.com/images/I/815bdE+Y49L._AC_SY300_SX300_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "12 Cup Muffin Baking Pan",
         "age": "",
@@ -484,7 +484,7 @@
         "image": "https://m.media-amazon.com/images/I/A1lK0pbCMJL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "Rolling Pin Set",
         "age": "",
@@ -495,7 +495,7 @@
         "image": "https://m.media-amazon.com/images/I/81FN9rYv4yL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "16 inch Cooling Rack Set",
         "age": "",
@@ -506,7 +506,7 @@
         "image": "https://m.media-amazon.com/images/I/81V1bY89nVL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "3-Tier Cooling Rack",
         "age": "",
@@ -517,7 +517,7 @@
         "image": "https://m.media-amazon.com/images/I/81rcLckjOsL._AC_SX679_.jpg"
     },
     {
-        "active": "true",
+        "active": true,
         "name": "Luciana T.",
         "item": "3 pc Cake Scraper Set",
         "age": "",

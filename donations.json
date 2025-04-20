@@ -156,7 +156,7 @@
         "business": true
     },
     {
-        "active": true,
+        "active": false,
         "name": "Luciana T.",
         "item": "Acrylic Cake Scraper Set",
         "age": "",
@@ -273,18 +273,6 @@
         "link": "https://a.co/d/f89FkDw",
         "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/27CWHA69MSMBM?ref_=wl_share",
         "image": "https://m.media-amazon.com/images/I/61iGA0PFR3L._AC_SX569_.jpg",
-        "business": true
-    },
-    {
-        "active": true,
-        "name": "Luciana T.",
-        "item": "9 inch Parchment Paper Rounds",
-        "age": "",
-        "city": "Pacific Palisades",
-        "asin": "B07THM92BY",
-        "link": "https://a.co/d/gR4FD6b",
-        "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/3QLO1FXN2C68W?ref_=wl_share",
-        "image": "https://m.media-amazon.com/images/I/61NIsSxa17L._AC_SX569_.jpg",
         "business": true
     },
     {
@@ -528,7 +516,7 @@
         "business": true
     },
     {
-        "active": true,
+        "active": false,
         "name": "Luciana T.",
         "item": "3 pc Cake Scraper Set",
         "age": "",

@@ -180,7 +180,7 @@
         "business": true
     },
     {
-        "active": true,
+        "active": false,
         "name": "Luciana Toriello",
         "item": "12 inch Clear Acrylic Cake Scraper",
         "age": "",
@@ -312,7 +312,7 @@
         "business": true
     },
     {
-        "active": true,
+        "active": false,
         "name": "Luciana T.",
         "item": "Stainless Steel Measuring Cup Set",
         "age": "",

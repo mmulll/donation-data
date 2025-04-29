@@ -574,5 +574,17 @@
         "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/3IHP5QCILO9F5?ref_=wl_share",
         "image": "https://c.media-amazon.com/images/I/51ZDxXD4akL._AC_SL1001_.jpg",
         "business": false
+    },
+    {
+        "active": true,
+        "name": "Life Steps USA",
+        "item": "Soft'N Style Hair Care 4-Pack Comb",
+        "age": "",
+        "city": "",
+        "asin": "B0887X72H6",
+        "link": "https://a.co/d/a1f0ejf",
+        "wishlist_link": "https://www.amazon.com/hz/wishlist/ls/2LL461CA2ZA0Q?ref_=wl_share",
+        "image": "https://c.media-amazon.com/images/I/512ljnbv26L._SX300_SY300_QL70_FMwebp_.jpg",
+        "business": false
     }
  ]
